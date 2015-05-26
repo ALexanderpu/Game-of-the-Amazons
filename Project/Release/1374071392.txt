@@ -1,0 +1,132 @@
+1 :
+node: 387922, sumnode: 387922
+time: 15429
+2 :
+node: 113968, sumnode: 501890
+time: 4124
+3 :
+node: 436984, sumnode: 938874
+time: 14684
+4 :
+node: 168522, sumnode: 1107396
+time: 5400
+5 :
+node: 152720, sumnode: 1260116
+time: 4661
+6 :
+node: 201635, sumnode: 1461751
+time: 5668
+7 :
+node: 87810, sumnode: 1549561
+time: 2355
+8 :
+node: 27595, sumnode: 1577156
+time: 723
+9 :
+node: 40782, sumnode: 1617938
+time: 986
+10 :
+node: 31293, sumnode: 1649231
+time: 731
+11 :
+node: 38102, sumnode: 1687333
+time: 846
+12 :
+node: 35038, sumnode: 1722371
+time: 750
+13 :
+node: 7780, sumnode: 1730151
+time: 157
+14 :
+node: 17873, sumnode: 1748024
+time: 335
+15 :
+node: 20101, sumnode: 1768125
+time: 350
+16 :
+node: 9422, sumnode: 1777547
+time: 153
+17 :
+node: 4925, sumnode: 1782472
+time: 76
+18 :
+node: 4641, sumnode: 1787113
+time: 60
+19 :
+node: 2448, sumnode: 1789561
+time: 31
+20 :
+node: 1466, sumnode: 1791027
+time: 18
+21 :
+node: 1138, sumnode: 1792165
+time: 12
+22 :
+node: 2073, sumnode: 1794238
+time: 20
+23 :
+node: 1262, sumnode: 1795500
+time: 11
+24 :
+node: 541, sumnode: 1796041
+time: 4
+25 :
+node: 450, sumnode: 1796491
+time: 4
+26 :
+node: 120, sumnode: 1796611
+time: 1
+27 :
+node: 298, sumnode: 1796909
+time: 2
+28 :
+node: 275, sumnode: 1797184
+time: 2
+29 :
+node: 181, sumnode: 1797365
+time: 1
+30 :
+node: 307, sumnode: 1797672
+time: 2
+31 :
+node: 286, sumnode: 1797958
+time: 2
+32 :
+node: 273, sumnode: 1798231
+time: 2
+33 :
+node: 270, sumnode: 1798501
+time: 1
+34 :
+node: 218, sumnode: 1798719
+time: 1
+35 :
+node: 58, sumnode: 1798777
+time: 0
+36 :
+node: 61, sumnode: 1798838
+time: 1
+37 :
+node: 36, sumnode: 1798874
+time: 0
+38 :
+node: 37, sumnode: 1798911
+time: 0
+39 :
+node: 30, sumnode: 1798941
+time: 0
+40 :
+node: 19, sumnode: 1798960
+time: 1
+41 :
+node: 21, sumnode: 1798981
+time: 0
+42 :
+node: 9, sumnode: 1798990
+time: 0
+43 :
+node: 8, sumnode: 1798998
+time: 0
+44 :
+node: 6, sumnode: 1799004
+time: 0
